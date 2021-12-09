@@ -1,0 +1,2402 @@
+[
+    {
+        "code": "STY-2021-96016",
+        "order_status": "Processing",
+        "customer_name": "Amelia De Vries",
+        "country": "DE",
+        "created_at": "2021-01-01T00:32:07",
+        "total": "€372.17"
+    },
+    {
+        "code": "STY-2021-98094",
+        "order_status": "Partially shipped",
+        "customer_name": "Jack M\u00fcller",
+        "country": "IT",
+        "created_at": "2020-12-31T07:56:10",
+        "total": "€451.97"
+    },
+    {
+        "code": "STY-2021-23677",
+        "order_status": "Processing",
+        "customer_name": "Olivia M\u00fcller",
+        "country": "IT",
+        "created_at": "2020-12-30T07:31:38",
+        "total": "€390.87"
+    },
+    {
+        "code": "STY-2021-44882",
+        "order_status": "Canceled",
+        "customer_name": "Mateo Maier",
+        "country": "PT",
+        "created_at": "2020-12-29T10:24:28",
+        "total": "€248.39"
+    },
+    {
+        "code": "STY-2021-13970",
+        "order_status": "Canceled",
+        "customer_name": "Lily Esposito",
+        "country": "DE",
+        "created_at": "2020-12-26T08:35:05",
+        "total": "€356.61"
+    },
+    {
+        "code": "STY-2021-38045",
+        "order_status": "Partially shipped",
+        "customer_name": "Leo Maier",
+        "country": "IT",
+        "created_at": "2020-12-23T17:18:32",
+        "total": "€245.42"
+    },
+    {
+        "code": "STY-2021-81352",
+        "order_status": "Partially canceled",
+        "customer_name": "Charlotte Smith",
+        "country": "DE",
+        "created_at": "2020-12-22T01:16:18",
+        "total": "€583.46"
+    },
+    {
+        "code": "STY-2021-54439",
+        "order_status": "Processing",
+        "customer_name": "Ethan Garc\u00eda",
+        "country": "BE",
+        "created_at": "2020-12-20T00:14:31",
+        "total": "€422.55"
+    },
+    {
+        "code": "STY-2021-06002",
+        "order_status": "Shipped",
+        "customer_name": "Harper G\u00f3mez",
+        "country": "DE",
+        "created_at": "2020-12-19T08:56:45",
+        "total": "€351.20"
+    },
+    {
+        "code": "STY-2021-91949",
+        "order_status": "Partially shipped",
+        "customer_name": "Noah Bianchi",
+        "country": "PT",
+        "created_at": "2020-12-19T00:45:48",
+        "total": "€502.62"
+    },
+    {
+        "code": "STY-2021-60251",
+        "order_status": "Partially shipped",
+        "customer_name": "Evelyn M\u00fcller",
+        "country": "SP",
+        "created_at": "2020-12-18T08:59:29",
+        "total": "€593.18"
+    },
+    {
+        "code": "STY-2021-31242",
+        "order_status": "Processing",
+        "customer_name": "Evelyn De Vries",
+        "country": "NL",
+        "created_at": "2020-12-17T08:16:17",
+        "total": "€413.81"
+    },
+    {
+        "code": "STY-2021-04203",
+        "order_status": "Processing",
+        "customer_name": "Jack Garc\u00eda",
+        "country": "IT",
+        "created_at": "2020-12-13T16:00:34",
+        "total": "€250.30"
+    },
+    {
+        "code": "STY-2021-25565",
+        "order_status": "Shipped",
+        "customer_name": "Noah Esposito",
+        "country": "CH",
+        "created_at": "2020-12-09T16:00:56",
+        "total": "€119.15"
+    },
+    {
+        "code": "STY-2021-96903",
+        "order_status": "Partially canceled",
+        "customer_name": "Olivia St-Pierre",
+        "country": "IT",
+        "created_at": "2020-12-08T16:57:24",
+        "total": "€171.74"
+    },
+    {
+        "code": "STY-2021-20832",
+        "order_status": "Received",
+        "customer_name": "Evelyn Johnson",
+        "country": "DE",
+        "created_at": "2020-12-07T17:57:09",
+        "total": "€371.86"
+    },
+    {
+        "code": "STY-2021-57638",
+        "order_status": "Partially canceled",
+        "customer_name": "Leo Hansen",
+        "country": "IT",
+        "created_at": "2020-12-07T12:09:13",
+        "total": "€488.18"
+    },
+    {
+        "code": "STY-2021-79178",
+        "order_status": "Canceled",
+        "customer_name": "Noah G\u00f3mez",
+        "country": "IT",
+        "created_at": "2020-12-05T11:20:00",
+        "total": "€18.32"
+    },
+    {
+        "code": "STY-2021-47955",
+        "order_status": "Processing",
+        "customer_name": "Olivia Jensen",
+        "country": "CH",
+        "created_at": "2020-12-04T04:29:51",
+        "total": "€237.00"
+    },
+    {
+        "code": "STY-2021-52574",
+        "order_status": "Canceled",
+        "customer_name": "Sophia Van Dijk",
+        "country": "FR",
+        "created_at": "2020-12-04T02:48:04",
+        "total": "€247.84"
+    },
+    {
+        "code": "STY-2021-00434",
+        "order_status": "Processing",
+        "customer_name": "Ella Ricci",
+        "country": "IT",
+        "created_at": "2020-12-03T13:30:10",
+        "total": "€129.12"
+    },
+    {
+        "code": "STY-2021-44805",
+        "order_status": "Partially canceled",
+        "customer_name": "Evelyn Jensen",
+        "country": "NL",
+        "created_at": "2020-12-03T08:47:12",
+        "total": "€312.53"
+    },
+    {
+        "code": "STY-2021-06834",
+        "order_status": "Partially canceled",
+        "customer_name": "Lucas Latini",
+        "country": "DE",
+        "created_at": "2020-12-03T08:12:09",
+        "total": "€57.23"
+    },
+    {
+        "code": "STY-2021-58500",
+        "order_status": "Processing",
+        "customer_name": "Scarlett Christensen",
+        "country": "IT",
+        "created_at": "2020-12-03T01:11:51",
+        "total": "€163.97"
+    },
+    {
+        "code": "STY-2021-45316",
+        "order_status": "Partially canceled",
+        "customer_name": "Daniel Bianchi",
+        "country": "BE",
+        "created_at": "2020-12-02T19:43:33",
+        "total": "€224.16"
+    },
+    {
+        "code": "STY-2021-27985",
+        "order_status": "Processing",
+        "customer_name": "Sophia Rodriguez",
+        "country": "IT",
+        "created_at": "2020-12-02T00:56:45",
+        "total": "€90.58"
+    },
+    {
+        "code": "STY-2021-93596",
+        "order_status": "Received",
+        "customer_name": "Charlotte Esposito",
+        "country": "PT",
+        "created_at": "2020-12-01T20:29:56",
+        "total": "€332.02"
+    },
+    {
+        "code": "STY-2021-13750",
+        "order_status": "Partially canceled",
+        "customer_name": "Noah Christensen",
+        "country": "NL",
+        "created_at": "2020-12-01T09:08:44",
+        "total": "€320.49"
+    },
+    {
+        "code": "STY-2021-56231",
+        "order_status": "Received",
+        "customer_name": "Liam Nilsson",
+        "country": "GB",
+        "created_at": "2020-11-30T10:05:33",
+        "total": "€204.45"
+    },
+    {
+        "code": "STY-2021-43414",
+        "order_status": "Partially canceled",
+        "customer_name": "Scarlett Maier",
+        "country": "DK",
+        "created_at": "2020-11-29T14:12:39",
+        "total": "€110.67"
+    },
+    {
+        "code": "STY-2021-19920",
+        "order_status": "Processing",
+        "customer_name": "Ella Knispel",
+        "country": "NL",
+        "created_at": "2020-11-28T11:19:12",
+        "total": "€466.20"
+    },
+    {
+        "code": "STY-2021-98936",
+        "order_status": "Received",
+        "customer_name": "Olivia Bianchi",
+        "country": "PT",
+        "created_at": "2020-11-27T14:33:50",
+        "total": "€507.24"
+    },
+    {
+        "code": "STY-2021-58144",
+        "order_status": "Received",
+        "customer_name": "Liam Christensen",
+        "country": "DE",
+        "created_at": "2020-11-26T14:28:34",
+        "total": "€387.29"
+    },
+    {
+        "code": "STY-2021-47232",
+        "order_status": "Partially canceled",
+        "customer_name": "Scarlett St-Pierre",
+        "country": "SP",
+        "created_at": "2020-11-23T02:38:02",
+        "total": "€539.56"
+    },
+    {
+        "code": "STY-2021-80907",
+        "order_status": "Processing",
+        "customer_name": "Evelyn Knispel",
+        "country": "DK",
+        "created_at": "2020-11-22T07:59:52",
+        "total": "€175.28"
+    },
+    {
+        "code": "STY-2021-10143",
+        "order_status": "Partially canceled",
+        "customer_name": "Lucas Garc\u00eda",
+        "country": "DE",
+        "created_at": "2020-11-21T08:33:48",
+        "total": "€147.79"
+    },
+    {
+        "code": "STY-2021-64920",
+        "order_status": "Processing",
+        "customer_name": "Lucas Jensen",
+        "country": "IT",
+        "created_at": "2020-11-19T23:07:10",
+        "total": "€200.01"
+    },
+    {
+        "code": "STY-2021-95447",
+        "order_status": "Shipped",
+        "customer_name": "Leo Garc\u00eda",
+        "country": "SP",
+        "created_at": "2020-11-19T14:16:17",
+        "total": "€158.83"
+    },
+    {
+        "code": "STY-2021-32425",
+        "order_status": "Partially shipped",
+        "customer_name": "Emma Jensen",
+        "country": "CH",
+        "created_at": "2020-11-17T15:40:29",
+        "total": "€331.50"
+    },
+    {
+        "code": "STY-2021-19045",
+        "order_status": "Received",
+        "customer_name": "Charlotte Smith",
+        "country": "IT",
+        "created_at": "2020-11-16T17:43:43",
+        "total": "€269.44"
+    },
+    {
+        "code": "STY-2021-32865",
+        "order_status": "Processing",
+        "customer_name": "Noah Latini",
+        "country": "SP",
+        "created_at": "2020-11-15T16:26:00",
+        "total": "€469.62"
+    },
+    {
+        "code": "STY-2021-96552",
+        "order_status": "Partially canceled",
+        "customer_name": "Harper Nilsson",
+        "country": "DE",
+        "created_at": "2020-11-14T05:24:32",
+        "total": "€144.87"
+    },
+    {
+        "code": "STY-2021-28409",
+        "order_status": "Shipped",
+        "customer_name": "Evelyn St-Pierre",
+        "country": "GB",
+        "created_at": "2020-11-13T22:04:16",
+        "total": "€353.85"
+    },
+    {
+        "code": "STY-2021-40276",
+        "order_status": "Partially shipped",
+        "customer_name": "Jack De Vries",
+        "country": "PT",
+        "created_at": "2020-11-13T11:50:36",
+        "total": "€447.81"
+    },
+    {
+        "code": "STY-2021-34469",
+        "order_status": "Shipped",
+        "customer_name": "Olivia Garc\u00eda",
+        "country": "DE",
+        "created_at": "2020-11-11T05:14:39",
+        "total": "€580.84"
+    },
+    {
+        "code": "STY-2021-33005",
+        "order_status": "Shipped",
+        "customer_name": "Mia Maier",
+        "country": "GB",
+        "created_at": "2020-11-10T08:03:59",
+        "total": "€45.48"
+    },
+    {
+        "code": "STY-2021-46019",
+        "order_status": "Shipped",
+        "customer_name": "Sophia Van Dijk",
+        "country": "IT",
+        "created_at": "2020-11-08T18:15:51",
+        "total": "€178.05"
+    },
+    {
+        "code": "STY-2021-63448",
+        "order_status": "Canceled",
+        "customer_name": "Harper Van Dijk",
+        "country": "CH",
+        "created_at": "2020-11-07T08:04:13",
+        "total": "€252.24"
+    },
+    {
+        "code": "STY-2021-08386",
+        "order_status": "Received",
+        "customer_name": "Daniel Knispel",
+        "country": "DE",
+        "created_at": "2020-11-06T21:54:28",
+        "total": "€401.39"
+    },
+    {
+        "code": "STY-2021-63095",
+        "order_status": "Canceled",
+        "customer_name": "Sophia Messerschmidt",
+        "country": "IT",
+        "created_at": "2020-11-05T03:55:41",
+        "total": "€234.65"
+    },
+    {
+        "code": "STY-2021-74312",
+        "order_status": "Partially canceled",
+        "customer_name": "Isabella Rodriguez",
+        "country": "IT",
+        "created_at": "2020-11-04T08:25:48",
+        "total": "€418.10"
+    },
+    {
+        "code": "STY-2021-35008",
+        "order_status": "Processing",
+        "customer_name": "Jack St-Pierre",
+        "country": "IT",
+        "created_at": "2020-10-31T14:16:46",
+        "total": "€13.97"
+    },
+    {
+        "code": "STY-2021-95305",
+        "order_status": "Shipped",
+        "customer_name": "Oliver St-Pierre",
+        "country": "NL",
+        "created_at": "2020-10-30T07:56:03",
+        "total": "€13.26"
+    },
+    {
+        "code": "STY-2021-44379",
+        "order_status": "Processing",
+        "customer_name": "Scarlett Knispel",
+        "country": "DE",
+        "created_at": "2020-10-29T10:29:28",
+        "total": "€486.26"
+    },
+    {
+        "code": "STY-2021-38897",
+        "order_status": "Partially canceled",
+        "customer_name": "Scarlett Johnson",
+        "country": "PT",
+        "created_at": "2020-10-28T19:17:51",
+        "total": "€427.73"
+    },
+    {
+        "code": "STY-2021-38577",
+        "order_status": "Partially canceled",
+        "customer_name": "Mia Hansen",
+        "country": "DE",
+        "created_at": "2020-10-28T04:26:50",
+        "total": "€124.32"
+    },
+    {
+        "code": "STY-2021-03646",
+        "order_status": "Received",
+        "customer_name": "Harper M\u00fcller",
+        "country": "DE",
+        "created_at": "2020-10-27T12:33:43",
+        "total": "€345.26"
+    },
+    {
+        "code": "STY-2021-25655",
+        "order_status": "Partially shipped",
+        "customer_name": "Sophia Esposito",
+        "country": "DK",
+        "created_at": "2020-10-27T11:36:51",
+        "total": "€14.57"
+    },
+    {
+        "code": "STY-2021-22007",
+        "order_status": "Canceled",
+        "customer_name": "Ella Rodriguez",
+        "country": "DE",
+        "created_at": "2020-10-18T21:52:00",
+        "total": "€48.17"
+    },
+    {
+        "code": "STY-2021-22303",
+        "order_status": "Partially canceled",
+        "customer_name": "Mateo Bianchi",
+        "country": "SP",
+        "created_at": "2020-10-17T07:04:16",
+        "total": "€184.22"
+    },
+    {
+        "code": "STY-2021-40885",
+        "order_status": "Shipped",
+        "customer_name": "Ethan Latini",
+        "country": "DE",
+        "created_at": "2020-10-16T18:30:00",
+        "total": "€420.61"
+    },
+    {
+        "code": "STY-2021-41972",
+        "order_status": "Canceled",
+        "customer_name": "Sophia Maier",
+        "country": "DE",
+        "created_at": "2020-10-15T08:08:07",
+        "total": "€517.89"
+    },
+    {
+        "code": "STY-2021-47213",
+        "order_status": "Processing",
+        "customer_name": "Henry Garc\u00eda",
+        "country": "CH",
+        "created_at": "2020-10-15T04:26:38",
+        "total": "€20.35"
+    },
+    {
+        "code": "STY-2021-92098",
+        "order_status": "Received",
+        "customer_name": "Lily Latini",
+        "country": "PT",
+        "created_at": "2020-10-14T18:02:02",
+        "total": "€332.83"
+    },
+    {
+        "code": "STY-2021-58597",
+        "order_status": "Received",
+        "customer_name": "Harper Christensen",
+        "country": "NL",
+        "created_at": "2020-10-14T10:09:25",
+        "total": "€521.68"
+    },
+    {
+        "code": "STY-2021-57382",
+        "order_status": "Shipped",
+        "customer_name": "Mia Maier",
+        "country": "DE",
+        "created_at": "2020-10-13T18:28:38",
+        "total": "€403.43"
+    },
+    {
+        "code": "STY-2021-21796",
+        "order_status": "Canceled",
+        "customer_name": "Jack Jensen",
+        "country": "IT",
+        "created_at": "2020-10-13T15:24:12",
+        "total": "€523.06"
+    },
+    {
+        "code": "STY-2021-98609",
+        "order_status": "Processing",
+        "customer_name": "Lily Hansen",
+        "country": "BE",
+        "created_at": "2020-10-12T23:40:01",
+        "total": "€441.91"
+    },
+    {
+        "code": "STY-2021-72504",
+        "order_status": "Partially canceled",
+        "customer_name": "Isabella Knispel",
+        "country": "DE",
+        "created_at": "2020-10-11T20:20:20",
+        "total": "€255.84"
+    },
+    {
+        "code": "STY-2021-75031",
+        "order_status": "Shipped",
+        "customer_name": "Charlotte Smith",
+        "country": "PT",
+        "created_at": "2020-10-09T04:32:34",
+        "total": "€176.17"
+    },
+    {
+        "code": "STY-2021-86881",
+        "order_status": "Received",
+        "customer_name": "Jack Nilsson",
+        "country": "IT",
+        "created_at": "2020-10-08T17:37:46",
+        "total": "€491.96"
+    },
+    {
+        "code": "STY-2021-72081",
+        "order_status": "Partially canceled",
+        "customer_name": "Oliver Johnson",
+        "country": "CH",
+        "created_at": "2020-10-03T19:23:31",
+        "total": "€568.81"
+    },
+    {
+        "code": "STY-2021-55292",
+        "order_status": "Received",
+        "customer_name": "Olivia Nilsson",
+        "country": "NL",
+        "created_at": "2020-10-01T17:32:57",
+        "total": "€508.97"
+    },
+    {
+        "code": "STY-2021-17338",
+        "order_status": "Shipped",
+        "customer_name": "Emma Garc\u00eda",
+        "country": "DE",
+        "created_at": "2020-09-30T16:10:26",
+        "total": "€543.17"
+    },
+    {
+        "code": "STY-2021-37291",
+        "order_status": "Partially canceled",
+        "customer_name": "Isabella G\u00f3mez",
+        "country": "NL",
+        "created_at": "2020-09-29T06:47:52",
+        "total": "€326.43"
+    },
+    {
+        "code": "STY-2021-27527",
+        "order_status": "Shipped",
+        "customer_name": "Isabella Christensen",
+        "country": "FR",
+        "created_at": "2020-09-28T20:51:45",
+        "total": "€371.01"
+    },
+    {
+        "code": "STY-2021-04508",
+        "order_status": "Shipped",
+        "customer_name": "Harper Rodriguez",
+        "country": "NL",
+        "created_at": "2020-09-26T19:20:34",
+        "total": "€7.22"
+    },
+    {
+        "code": "STY-2021-55152",
+        "order_status": "Partially canceled",
+        "customer_name": "Lily M\u00fcller",
+        "country": "IT",
+        "created_at": "2020-09-24T03:56:11",
+        "total": "€254.68"
+    },
+    {
+        "code": "STY-2021-28301",
+        "order_status": "Processing",
+        "customer_name": "Scarlett Esposito",
+        "country": "PT",
+        "created_at": "2020-09-24T00:24:27",
+        "total": "€515.74"
+    },
+    {
+        "code": "STY-2021-56716",
+        "order_status": "Partially shipped",
+        "customer_name": "Oliver Garc\u00eda",
+        "country": "DE",
+        "created_at": "2020-09-23T18:41:38",
+        "total": "€109.14"
+    },
+    {
+        "code": "STY-2021-06828",
+        "order_status": "Shipped",
+        "customer_name": "Sophia Johnson",
+        "country": "NL",
+        "created_at": "2020-09-22T17:35:16",
+        "total": "€376.02"
+    },
+    {
+        "code": "STY-2021-10468",
+        "order_status": "Canceled",
+        "customer_name": "Liam Nilsson",
+        "country": "PT",
+        "created_at": "2020-09-18T07:29:41",
+        "total": "€263.44"
+    },
+    {
+        "code": "STY-2021-00036",
+        "order_status": "Partially canceled",
+        "customer_name": "Lily Ricci",
+        "country": "DE",
+        "created_at": "2020-09-17T12:40:46",
+        "total": "€271.67"
+    },
+    {
+        "code": "STY-2021-57855",
+        "order_status": "Canceled",
+        "customer_name": "Mia Jensen",
+        "country": "IT",
+        "created_at": "2020-09-16T00:31:50",
+        "total": "€355.88"
+    },
+    {
+        "code": "STY-2021-06617",
+        "order_status": "Received",
+        "customer_name": "Amelia St-Pierre",
+        "country": "DK",
+        "created_at": "2020-09-12T03:43:37",
+        "total": "€284.34"
+    },
+    {
+        "code": "STY-2021-03699",
+        "order_status": "Processing",
+        "customer_name": "Mateo M\u00fcller",
+        "country": "SP",
+        "created_at": "2020-09-12T01:32:00",
+        "total": "€275.77"
+    },
+    {
+        "code": "STY-2021-02060",
+        "order_status": "Canceled",
+        "customer_name": "Isabella Latini",
+        "country": "IT",
+        "created_at": "2020-09-11T13:36:32",
+        "total": "€140.26"
+    },
+    {
+        "code": "STY-2021-33333",
+        "order_status": "Canceled",
+        "customer_name": "Evelyn Latini",
+        "country": "PT",
+        "created_at": "2020-09-11T10:27:47",
+        "total": "€234.16"
+    },
+    {
+        "code": "STY-2021-03013",
+        "order_status": "Shipped",
+        "customer_name": "Scarlett Maier",
+        "country": "GB",
+        "created_at": "2020-09-04T21:35:48",
+        "total": "€413.77"
+    },
+    {
+        "code": "STY-2021-99599",
+        "order_status": "Shipped",
+        "customer_name": "Scarlett Bianchi",
+        "country": "NL",
+        "created_at": "2020-09-04T07:36:43",
+        "total": "€358.66"
+    },
+    {
+        "code": "STY-2021-91140",
+        "order_status": "Shipped",
+        "customer_name": "Leo Latini",
+        "country": "IT",
+        "created_at": "2020-09-03T06:12:12",
+        "total": "€58.96"
+    },
+    {
+        "code": "STY-2021-91762",
+        "order_status": "Partially canceled",
+        "customer_name": "Mateo Garc\u00eda",
+        "country": "IT",
+        "created_at": "2020-09-03T03:45:54",
+        "total": "€287.36"
+    },
+    {
+        "code": "STY-2021-05700",
+        "order_status": "Received",
+        "customer_name": "Charlotte Bianchi",
+        "country": "IT",
+        "created_at": "2020-08-23T16:26:40",
+        "total": "€184.41"
+    },
+    {
+        "code": "STY-2021-45714",
+        "order_status": "Shipped",
+        "customer_name": "Charlotte Knispel",
+        "country": "SP",
+        "created_at": "2020-08-22T12:59:27",
+        "total": "€22.90"
+    },
+    {
+        "code": "STY-2021-02928",
+        "order_status": "Shipped",
+        "customer_name": "Emma Hansen",
+        "country": "DK",
+        "created_at": "2020-08-22T11:33:03",
+        "total": "€590.51"
+    },
+    {
+        "code": "STY-2021-60274",
+        "order_status": "Partially canceled",
+        "customer_name": "Ethan Ricci",
+        "country": "GB",
+        "created_at": "2020-08-22T04:59:28",
+        "total": "€412.15"
+    },
+    {
+        "code": "STY-2021-89621",
+        "order_status": "Received",
+        "customer_name": "Mia Christensen",
+        "country": "GB",
+        "created_at": "2020-08-21T13:53:25",
+        "total": "€323.51"
+    },
+    {
+        "code": "STY-2021-26615",
+        "order_status": "Processing",
+        "customer_name": "Mia Van Dijk",
+        "country": "DE",
+        "created_at": "2020-08-20T23:08:15",
+        "total": "€145.54"
+    },
+    {
+        "code": "STY-2021-00008",
+        "order_status": "Partially shipped",
+        "customer_name": "Daniel Knispel",
+        "country": "DE",
+        "created_at": "2020-08-20T19:02:12",
+        "total": "€265.53"
+    },
+    {
+        "code": "STY-2021-77121",
+        "order_status": "Processing",
+        "customer_name": "Amelia Esposito",
+        "country": "GB",
+        "created_at": "2020-08-20T09:49:11",
+        "total": "€556.17"
+    },
+    {
+        "code": "STY-2021-03140",
+        "order_status": "Canceled",
+        "customer_name": "Mia Garc\u00eda",
+        "country": "DE",
+        "created_at": "2020-08-20T06:54:44",
+        "total": "€217.32"
+    },
+    {
+        "code": "STY-2021-33258",
+        "order_status": "Processing",
+        "customer_name": "Ella Christensen",
+        "country": "DK",
+        "created_at": "2020-08-20T04:20:56",
+        "total": "€251.04"
+    },
+    {
+        "code": "STY-2021-14047",
+        "order_status": "Shipped",
+        "customer_name": "Ella St-Pierre",
+        "country": "DE",
+        "created_at": "2020-08-16T06:24:16",
+        "total": "€69.00"
+    },
+    {
+        "code": "STY-2021-71563",
+        "order_status": "Partially canceled",
+        "customer_name": "Harper Romano",
+        "country": "DE",
+        "created_at": "2020-08-15T09:36:32",
+        "total": "€242.33"
+    },
+    {
+        "code": "STY-2021-29172",
+        "order_status": "Processing",
+        "customer_name": "Oliver Knispel",
+        "country": "IT",
+        "created_at": "2020-08-14T21:51:45",
+        "total": "€214.73"
+    },
+    {
+        "code": "STY-2021-49415",
+        "order_status": "Received",
+        "customer_name": "Daniel Knispel",
+        "country": "DE",
+        "created_at": "2020-08-13T05:43:03",
+        "total": "€542.75"
+    },
+    {
+        "code": "STY-2021-76281",
+        "order_status": "Partially shipped",
+        "customer_name": "Sophia Ricci",
+        "country": "DE",
+        "created_at": "2020-08-10T11:30:54",
+        "total": "€294.73"
+    },
+    {
+        "code": "STY-2021-50802",
+        "order_status": "Partially canceled",
+        "customer_name": "Olivia Nilsson",
+        "country": "CH",
+        "created_at": "2020-08-09T00:33:12",
+        "total": "€170.37"
+    },
+    {
+        "code": "STY-2021-51169",
+        "order_status": "Partially shipped",
+        "customer_name": "Harper Bianchi",
+        "country": "DE",
+        "created_at": "2020-08-06T04:57:49",
+        "total": "€136.87"
+    },
+    {
+        "code": "STY-2021-10186",
+        "order_status": "Received",
+        "customer_name": "Amelia Ricci",
+        "country": "GB",
+        "created_at": "2020-08-05T18:44:14",
+        "total": "€411.21"
+    },
+    {
+        "code": "STY-2021-21492",
+        "order_status": "Processing",
+        "customer_name": "Harper Johnson",
+        "country": "PT",
+        "created_at": "2020-08-04T16:47:57",
+        "total": "€503.87"
+    },
+    {
+        "code": "STY-2021-93794",
+        "order_status": "Shipped",
+        "customer_name": "Harper Garc\u00eda",
+        "country": "DE",
+        "created_at": "2020-08-03T19:58:40",
+        "total": "€205.41"
+    },
+    {
+        "code": "STY-2021-89282",
+        "order_status": "Processing",
+        "customer_name": "Emma Rodriguez",
+        "country": "IT",
+        "created_at": "2020-08-02T06:13:42",
+        "total": "€144.58"
+    },
+    {
+        "code": "STY-2021-83373",
+        "order_status": "Canceled",
+        "customer_name": "Scarlett Ricci",
+        "country": "NL",
+        "created_at": "2020-08-02T05:36:59",
+        "total": "€280.00"
+    },
+    {
+        "code": "STY-2021-78442",
+        "order_status": "Processing",
+        "customer_name": "Charlotte Rodriguez",
+        "country": "SP",
+        "created_at": "2020-08-02T00:22:53",
+        "total": "€500.93"
+    },
+    {
+        "code": "STY-2021-83457",
+        "order_status": "Partially shipped",
+        "customer_name": "Evelyn St-Pierre",
+        "country": "DK",
+        "created_at": "2020-07-31T04:39:56",
+        "total": "€407.58"
+    },
+    {
+        "code": "STY-2021-53943",
+        "order_status": "Partially canceled",
+        "customer_name": "Oliver Bianchi",
+        "country": "IT",
+        "created_at": "2020-07-30T11:56:36",
+        "total": "€130.43"
+    },
+    {
+        "code": "STY-2021-87190",
+        "order_status": "Received",
+        "customer_name": "Emma Johnson",
+        "country": "FR",
+        "created_at": "2020-07-29T14:58:10",
+        "total": "€24.08"
+    },
+    {
+        "code": "STY-2021-39830",
+        "order_status": "Processing",
+        "customer_name": "Jack Romano",
+        "country": "NL",
+        "created_at": "2020-07-27T19:56:57",
+        "total": "€449.40"
+    },
+    {
+        "code": "STY-2021-49892",
+        "order_status": "Partially shipped",
+        "customer_name": "Henry G\u00f3mez",
+        "country": "FR",
+        "created_at": "2020-07-24T20:47:31",
+        "total": "€527.21"
+    },
+    {
+        "code": "STY-2021-66646",
+        "order_status": "Processing",
+        "customer_name": "Mia G\u00f3mez",
+        "country": "SP",
+        "created_at": "2020-07-22T01:06:40",
+        "total": "€231.59"
+    },
+    {
+        "code": "STY-2021-47247",
+        "order_status": "Partially canceled",
+        "customer_name": "Mia Ricci",
+        "country": "DE",
+        "created_at": "2020-07-21T21:07:51",
+        "total": "€430.79"
+    },
+    {
+        "code": "STY-2021-82136",
+        "order_status": "Processing",
+        "customer_name": "Mia Bianchi",
+        "country": "DE",
+        "created_at": "2020-07-20T13:13:43",
+        "total": "€317.89"
+    },
+    {
+        "code": "STY-2021-04500",
+        "order_status": "Partially canceled",
+        "customer_name": "Jack Christensen",
+        "country": "SP",
+        "created_at": "2020-07-20T06:44:44",
+        "total": "€115.00"
+    },
+    {
+        "code": "STY-2021-38980",
+        "order_status": "Processing",
+        "customer_name": "Ethan G\u00f3mez",
+        "country": "IT",
+        "created_at": "2020-07-17T03:36:18",
+        "total": "€448.64"
+    },
+    {
+        "code": "STY-2021-76323",
+        "order_status": "Partially canceled",
+        "customer_name": "Sophia Jensen",
+        "country": "IT",
+        "created_at": "2020-07-15T23:50:50",
+        "total": "€258.56"
+    },
+    {
+        "code": "STY-2021-10233",
+        "order_status": "Partially shipped",
+        "customer_name": "Jack M\u00fcller",
+        "country": "BE",
+        "created_at": "2020-07-13T06:03:42",
+        "total": "€125.34"
+    },
+    {
+        "code": "STY-2021-20577",
+        "order_status": "Shipped",
+        "customer_name": "Lucas Christensen",
+        "country": "SP",
+        "created_at": "2020-07-12T14:54:21",
+        "total": "€456.54"
+    },
+    {
+        "code": "STY-2021-34213",
+        "order_status": "Shipped",
+        "customer_name": "Mateo Bianchi",
+        "country": "SP",
+        "created_at": "2020-07-12T12:51:02",
+        "total": "€431.88"
+    },
+    {
+        "code": "STY-2021-95257",
+        "order_status": "Partially canceled",
+        "customer_name": "Ethan Latini",
+        "country": "FR",
+        "created_at": "2020-07-09T00:46:59",
+        "total": "€521.55"
+    },
+    {
+        "code": "STY-2021-20396",
+        "order_status": "Processing",
+        "customer_name": "Jack Rodriguez",
+        "country": "GB",
+        "created_at": "2020-07-08T16:41:34",
+        "total": "€42.95"
+    },
+    {
+        "code": "STY-2021-10023",
+        "order_status": "Processing",
+        "customer_name": "Sophia Bianchi",
+        "country": "IT",
+        "created_at": "2020-07-08T04:55:52",
+        "total": "€223.08"
+    },
+    {
+        "code": "STY-2021-20336",
+        "order_status": "Partially canceled",
+        "customer_name": "Ella St-Pierre",
+        "country": "IT",
+        "created_at": "2020-07-06T19:48:32",
+        "total": "€398.47"
+    },
+    {
+        "code": "STY-2021-23349",
+        "order_status": "Partially shipped",
+        "customer_name": "Leo Hansen",
+        "country": "IT",
+        "created_at": "2020-07-06T15:14:36",
+        "total": "€29.48"
+    },
+    {
+        "code": "STY-2021-88152",
+        "order_status": "Partially canceled",
+        "customer_name": "Sophia Knispel",
+        "country": "FR",
+        "created_at": "2020-07-06T02:57:33",
+        "total": "€379.30"
+    },
+    {
+        "code": "STY-2021-53991",
+        "order_status": "Shipped",
+        "customer_name": "Lucas Ricci",
+        "country": "DE",
+        "created_at": "2020-07-06T00:32:23",
+        "total": "€503.12"
+    },
+    {
+        "code": "STY-2021-13299",
+        "order_status": "Shipped",
+        "customer_name": "Leo Knispel",
+        "country": "DE",
+        "created_at": "2020-07-01T09:09:00",
+        "total": "€177.22"
+    },
+    {
+        "code": "STY-2021-79269",
+        "order_status": "Partially canceled",
+        "customer_name": "Emma Garc\u00eda",
+        "country": "PT",
+        "created_at": "2020-06-29T17:19:50",
+        "total": "€494.91"
+    },
+    {
+        "code": "STY-2021-14066",
+        "order_status": "Shipped",
+        "customer_name": "Daniel Romano",
+        "country": "DE",
+        "created_at": "2020-06-29T17:17:09",
+        "total": "€374.15"
+    },
+    {
+        "code": "STY-2021-66186",
+        "order_status": "Shipped",
+        "customer_name": "Ella Hansen",
+        "country": "CH",
+        "created_at": "2020-06-29T07:50:22",
+        "total": "€65.67"
+    },
+    {
+        "code": "STY-2021-21944",
+        "order_status": "Partially shipped",
+        "customer_name": "Amelia Jensen",
+        "country": "DK",
+        "created_at": "2020-06-28T23:54:24",
+        "total": "€507.22"
+    },
+    {
+        "code": "STY-2021-56313",
+        "order_status": "Processing",
+        "customer_name": "Scarlett Nilsson",
+        "country": "BE",
+        "created_at": "2020-06-27T16:43:07",
+        "total": "€112.89"
+    },
+    {
+        "code": "STY-2021-05783",
+        "order_status": "Received",
+        "customer_name": "Henry Rodriguez",
+        "country": "IT",
+        "created_at": "2020-06-27T13:16:22",
+        "total": "€163.12"
+    },
+    {
+        "code": "STY-2021-64508",
+        "order_status": "Canceled",
+        "customer_name": "Evelyn Johnson",
+        "country": "DE",
+        "created_at": "2020-06-27T06:14:55",
+        "total": "€548.30"
+    },
+    {
+        "code": "STY-2021-01680",
+        "order_status": "Partially canceled",
+        "customer_name": "Ella Bianchi",
+        "country": "BE",
+        "created_at": "2020-06-26T23:44:13",
+        "total": "€525.52"
+    },
+    {
+        "code": "STY-2021-41937",
+        "order_status": "Canceled",
+        "customer_name": "Evelyn Garc\u00eda",
+        "country": "IT",
+        "created_at": "2020-06-25T04:08:42",
+        "total": "€132.03"
+    },
+    {
+        "code": "STY-2021-52159",
+        "order_status": "Partially canceled",
+        "customer_name": "Lily Knispel",
+        "country": "IT",
+        "created_at": "2020-06-24T04:35:46",
+        "total": "€139.51"
+    },
+    {
+        "code": "STY-2021-81731",
+        "order_status": "Partially canceled",
+        "customer_name": "Leo St-Pierre",
+        "country": "BE",
+        "created_at": "2020-06-21T23:19:51",
+        "total": "€217.43"
+    },
+    {
+        "code": "STY-2021-26196",
+        "order_status": "Canceled",
+        "customer_name": "Evelyn Van Dijk",
+        "country": "CH",
+        "created_at": "2020-06-21T23:14:15",
+        "total": "€286.22"
+    },
+    {
+        "code": "STY-2021-83264",
+        "order_status": "Canceled",
+        "customer_name": "Lucas Ricci",
+        "country": "BE",
+        "created_at": "2020-06-21T21:31:57",
+        "total": "€271.87"
+    },
+    {
+        "code": "STY-2021-74556",
+        "order_status": "Partially canceled",
+        "customer_name": "Ella St-Pierre",
+        "country": "BE",
+        "created_at": "2020-06-21T11:04:03",
+        "total": "€52.13"
+    },
+    {
+        "code": "STY-2021-58973",
+        "order_status": "Canceled",
+        "customer_name": "Mateo M\u00fcller",
+        "country": "IT",
+        "created_at": "2020-06-18T23:54:46",
+        "total": "€106.98"
+    },
+    {
+        "code": "STY-2021-64234",
+        "order_status": "Received",
+        "customer_name": "Noah Ricci",
+        "country": "IT",
+        "created_at": "2020-06-15T14:12:16",
+        "total": "€290.55"
+    },
+    {
+        "code": "STY-2021-33167",
+        "order_status": "Received",
+        "customer_name": "Sophia Nilsson",
+        "country": "IT",
+        "created_at": "2020-06-14T23:30:51",
+        "total": "€379.46"
+    },
+    {
+        "code": "STY-2021-36852",
+        "order_status": "Canceled",
+        "customer_name": "Isabella Maier",
+        "country": "IT",
+        "created_at": "2020-06-13T22:20:57",
+        "total": "€458.79"
+    },
+    {
+        "code": "STY-2021-03791",
+        "order_status": "Partially canceled",
+        "customer_name": "Scarlett Maier",
+        "country": "DE",
+        "created_at": "2020-06-12T18:29:33",
+        "total": "€493.42"
+    },
+    {
+        "code": "STY-2021-87072",
+        "order_status": "Received",
+        "customer_name": "Leo Jensen",
+        "country": "CH",
+        "created_at": "2020-06-12T07:14:53",
+        "total": "€13.18"
+    },
+    {
+        "code": "STY-2021-55991",
+        "order_status": "Canceled",
+        "customer_name": "Mateo M\u00fcller",
+        "country": "CH",
+        "created_at": "2020-06-07T00:42:38",
+        "total": "€490.94"
+    },
+    {
+        "code": "STY-2021-35850",
+        "order_status": "Canceled",
+        "customer_name": "Henry Garc\u00eda",
+        "country": "IT",
+        "created_at": "2020-06-06T11:43:19",
+        "total": "€503.14"
+    },
+    {
+        "code": "STY-2021-64980",
+        "order_status": "Processing",
+        "customer_name": "Ella Knispel",
+        "country": "SP",
+        "created_at": "2020-06-06T09:34:31",
+        "total": "€517.84"
+    },
+    {
+        "code": "STY-2021-17257",
+        "order_status": "Received",
+        "customer_name": "Mateo Jensen",
+        "country": "NL",
+        "created_at": "2020-06-05T23:07:58",
+        "total": "€351.17"
+    },
+    {
+        "code": "STY-2021-98449",
+        "order_status": "Partially canceled",
+        "customer_name": "Evelyn M\u00fcller",
+        "country": "IT",
+        "created_at": "2020-06-04T20:56:41",
+        "total": "€30.24"
+    },
+    {
+        "code": "STY-2021-06062",
+        "order_status": "Received",
+        "customer_name": "Isabella Latini",
+        "country": "NL",
+        "created_at": "2020-06-03T20:14:31",
+        "total": "€277.41"
+    },
+    {
+        "code": "STY-2021-23626",
+        "order_status": "Partially canceled",
+        "customer_name": "Oliver Rodriguez",
+        "country": "IT",
+        "created_at": "2020-06-03T18:44:55",
+        "total": "€531.99"
+    },
+    {
+        "code": "STY-2021-87625",
+        "order_status": "Partially canceled",
+        "customer_name": "Lily St-Pierre",
+        "country": "DK",
+        "created_at": "2020-05-31T12:26:08",
+        "total": "€132.08"
+    },
+    {
+        "code": "STY-2021-79271",
+        "order_status": "Received",
+        "customer_name": "Mateo Maier",
+        "country": "NL",
+        "created_at": "2020-05-29T08:43:57",
+        "total": "€509.53"
+    },
+    {
+        "code": "STY-2021-57071",
+        "order_status": "Partially shipped",
+        "customer_name": "Isabella Rodriguez",
+        "country": "DK",
+        "created_at": "2020-05-29T06:36:18",
+        "total": "€84.74"
+    },
+    {
+        "code": "STY-2021-70670",
+        "order_status": "Received",
+        "customer_name": "Emma Rodriguez",
+        "country": "DE",
+        "created_at": "2020-05-28T14:58:27",
+        "total": "€327.23"
+    },
+    {
+        "code": "STY-2021-00393",
+        "order_status": "Processing",
+        "customer_name": "Olivia Hansen",
+        "country": "DK",
+        "created_at": "2020-05-27T00:01:09",
+        "total": "€128.70"
+    },
+    {
+        "code": "STY-2021-67202",
+        "order_status": "Shipped",
+        "customer_name": "Lucas Bianchi",
+        "country": "BE",
+        "created_at": "2020-05-24T08:47:24",
+        "total": "€266.34"
+    },
+    {
+        "code": "STY-2021-16688",
+        "order_status": "Shipped",
+        "customer_name": "Scarlett Hansen",
+        "country": "IT",
+        "created_at": "2020-05-21T04:18:01",
+        "total": "€300.80"
+    },
+    {
+        "code": "STY-2021-74874",
+        "order_status": "Canceled",
+        "customer_name": "Noah Smith",
+        "country": "BE",
+        "created_at": "2020-05-20T01:24:59",
+        "total": "€359.79"
+    },
+    {
+        "code": "STY-2021-55046",
+        "order_status": "Processing",
+        "customer_name": "Mateo Ricci",
+        "country": "PT",
+        "created_at": "2020-05-20T00:04:20",
+        "total": "€424.94"
+    },
+    {
+        "code": "STY-2021-65125",
+        "order_status": "Shipped",
+        "customer_name": "Oliver M\u00fcller",
+        "country": "DE",
+        "created_at": "2020-05-18T01:36:55",
+        "total": "€247.52"
+    },
+    {
+        "code": "STY-2021-51705",
+        "order_status": "Partially shipped",
+        "customer_name": "Jack Hansen",
+        "country": "DE",
+        "created_at": "2020-05-16T19:31:51",
+        "total": "€370.95"
+    },
+    {
+        "code": "STY-2021-63989",
+        "order_status": "Partially shipped",
+        "customer_name": "Oliver Maier",
+        "country": "NL",
+        "created_at": "2020-05-16T14:59:44",
+        "total": "€599.36"
+    },
+    {
+        "code": "STY-2021-25479",
+        "order_status": "Canceled",
+        "customer_name": "Lily Romano",
+        "country": "IT",
+        "created_at": "2020-05-15T00:48:05",
+        "total": "€432.25"
+    },
+    {
+        "code": "STY-2021-76280",
+        "order_status": "Processing",
+        "customer_name": "Ella St-Pierre",
+        "country": "GB",
+        "created_at": "2020-05-13T10:07:40",
+        "total": "€98.96"
+    },
+    {
+        "code": "STY-2021-96806",
+        "order_status": "Shipped",
+        "customer_name": "Mia Knispel",
+        "country": "DE",
+        "created_at": "2020-05-13T03:47:03",
+        "total": "€401.63"
+    },
+    {
+        "code": "STY-2021-59097",
+        "order_status": "Partially canceled",
+        "customer_name": "Jack Latini",
+        "country": "SP",
+        "created_at": "2020-05-12T21:50:10",
+        "total": "€30.17"
+    },
+    {
+        "code": "STY-2021-87582",
+        "order_status": "Canceled",
+        "customer_name": "Ella Messerschmidt",
+        "country": "DE",
+        "created_at": "2020-05-12T08:57:22",
+        "total": "€46.26"
+    },
+    {
+        "code": "STY-2021-42449",
+        "order_status": "Received",
+        "customer_name": "Olivia Bianchi",
+        "country": "DE",
+        "created_at": "2020-05-11T20:50:10",
+        "total": "€413.05"
+    },
+    {
+        "code": "STY-2021-64227",
+        "order_status": "Partially canceled",
+        "customer_name": "Scarlett Rodriguez",
+        "country": "FR",
+        "created_at": "2020-05-11T06:31:57",
+        "total": "€17.09"
+    },
+    {
+        "code": "STY-2021-49995",
+        "order_status": "Processing",
+        "customer_name": "Liam Jensen",
+        "country": "FR",
+        "created_at": "2020-05-10T16:06:21",
+        "total": "€394.68"
+    },
+    {
+        "code": "STY-2021-81091",
+        "order_status": "Partially shipped",
+        "customer_name": "Harper Jensen",
+        "country": "DE",
+        "created_at": "2020-05-10T02:30:02",
+        "total": "€476.25"
+    },
+    {
+        "code": "STY-2021-45682",
+        "order_status": "Partially shipped",
+        "customer_name": "Scarlett Ricci",
+        "country": "IT",
+        "created_at": "2020-05-08T12:58:31",
+        "total": "€593.11"
+    },
+    {
+        "code": "STY-2021-14257",
+        "order_status": "Shipped",
+        "customer_name": "Lucas Romano",
+        "country": "DE",
+        "created_at": "2020-05-08T09:00:27",
+        "total": "€246.40"
+    },
+    {
+        "code": "STY-2021-40111",
+        "order_status": "Canceled",
+        "customer_name": "Ethan Hansen",
+        "country": "PT",
+        "created_at": "2020-05-05T08:31:46",
+        "total": "€511.18"
+    },
+    {
+        "code": "STY-2021-46721",
+        "order_status": "Partially shipped",
+        "customer_name": "Daniel De Vries",
+        "country": "FR",
+        "created_at": "2020-05-03T17:01:22",
+        "total": "€349.89"
+    },
+    {
+        "code": "STY-2021-05817",
+        "order_status": "Canceled",
+        "customer_name": "Isabella Smith",
+        "country": "IT",
+        "created_at": "2020-05-03T01:11:25",
+        "total": "€276.82"
+    },
+    {
+        "code": "STY-2021-45957",
+        "order_status": "Partially canceled",
+        "customer_name": "Liam Garc\u00eda",
+        "country": "BE",
+        "created_at": "2020-05-01T04:22:58",
+        "total": "€57.84"
+    },
+    {
+        "code": "STY-2021-31360",
+        "order_status": "Received",
+        "customer_name": "Olivia Messerschmidt",
+        "country": "DK",
+        "created_at": "2020-04-30T23:48:59",
+        "total": "€490.38"
+    },
+    {
+        "code": "STY-2021-77623",
+        "order_status": "Partially canceled",
+        "customer_name": "Scarlett Smith",
+        "country": "DE",
+        "created_at": "2020-04-30T09:38:52",
+        "total": "€64.38"
+    },
+    {
+        "code": "STY-2021-21120",
+        "order_status": "Shipped",
+        "customer_name": "Lily Rodriguez",
+        "country": "DE",
+        "created_at": "2020-04-30T06:14:19",
+        "total": "€423.56"
+    },
+    {
+        "code": "STY-2021-01449",
+        "order_status": "Shipped",
+        "customer_name": "Sophia Messerschmidt",
+        "country": "DE",
+        "created_at": "2020-04-28T22:32:33",
+        "total": "€255.01"
+    },
+    {
+        "code": "STY-2021-61383",
+        "order_status": "Canceled",
+        "customer_name": "Noah Nilsson",
+        "country": "DE",
+        "created_at": "2020-04-28T04:19:06",
+        "total": "€431.84"
+    },
+    {
+        "code": "STY-2021-43418",
+        "order_status": "Partially canceled",
+        "customer_name": "Sophia Ricci",
+        "country": "CH",
+        "created_at": "2020-04-27T08:13:21",
+        "total": "€379.48"
+    },
+    {
+        "code": "STY-2021-59474",
+        "order_status": "Shipped",
+        "customer_name": "Emma St-Pierre",
+        "country": "DE",
+        "created_at": "2020-04-24T21:58:18",
+        "total": "€92.51"
+    },
+    {
+        "code": "STY-2021-95736",
+        "order_status": "Received",
+        "customer_name": "Lucas Romano",
+        "country": "PT",
+        "created_at": "2020-04-23T05:39:51",
+        "total": "€528.31"
+    },
+    {
+        "code": "STY-2021-11447",
+        "order_status": "Partially canceled",
+        "customer_name": "Emma Maier",
+        "country": "NL",
+        "created_at": "2020-04-22T06:15:35",
+        "total": "€416.61"
+    },
+    {
+        "code": "STY-2021-92868",
+        "order_status": "Shipped",
+        "customer_name": "Jack Van Dijk",
+        "country": "PT",
+        "created_at": "2020-04-22T03:06:26",
+        "total": "€284.97"
+    },
+    {
+        "code": "STY-2021-34009",
+        "order_status": "Partially shipped",
+        "customer_name": "Harper Messerschmidt",
+        "country": "DE",
+        "created_at": "2020-04-21T12:03:59",
+        "total": "€333.67"
+    },
+    {
+        "code": "STY-2021-10856",
+        "order_status": "Received",
+        "customer_name": "Emma Johnson",
+        "country": "DE",
+        "created_at": "2020-04-18T19:13:01",
+        "total": "€277.55"
+    },
+    {
+        "code": "STY-2021-42063",
+        "order_status": "Canceled",
+        "customer_name": "Daniel Messerschmidt",
+        "country": "SP",
+        "created_at": "2020-04-14T07:57:36",
+        "total": "€119.91"
+    },
+    {
+        "code": "STY-2021-93202",
+        "order_status": "Partially canceled",
+        "customer_name": "Ella Maier",
+        "country": "DE",
+        "created_at": "2020-04-12T22:59:48",
+        "total": "€182.96"
+    },
+    {
+        "code": "STY-2021-59492",
+        "order_status": "Partially canceled",
+        "customer_name": "Scarlett M\u00fcller",
+        "country": "DE",
+        "created_at": "2020-04-11T00:33:00",
+        "total": "€126.16"
+    },
+    {
+        "code": "STY-2021-74816",
+        "order_status": "Processing",
+        "customer_name": "Evelyn Hansen",
+        "country": "GB",
+        "created_at": "2020-04-10T10:43:24",
+        "total": "€575.72"
+    },
+    {
+        "code": "STY-2021-47537",
+        "order_status": "Shipped",
+        "customer_name": "Emma M\u00fcller",
+        "country": "IT",
+        "created_at": "2020-04-07T21:10:15",
+        "total": "€31.25"
+    },
+    {
+        "code": "STY-2021-92458",
+        "order_status": "Shipped",
+        "customer_name": "Harper Smith",
+        "country": "BE",
+        "created_at": "2020-04-07T14:08:20",
+        "total": "€271.49"
+    },
+    {
+        "code": "STY-2021-56870",
+        "order_status": "Partially canceled",
+        "customer_name": "Ethan Jensen",
+        "country": "GB",
+        "created_at": "2020-04-07T13:36:30",
+        "total": "€579.20"
+    },
+    {
+        "code": "STY-2021-54930",
+        "order_status": "Partially shipped",
+        "customer_name": "Liam Hansen",
+        "country": "IT",
+        "created_at": "2020-04-06T13:32:47",
+        "total": "€218.42"
+    },
+    {
+        "code": "STY-2021-13294",
+        "order_status": "Received",
+        "customer_name": "Ethan St-Pierre",
+        "country": "DE",
+        "created_at": "2020-04-05T20:35:37",
+        "total": "€163.06"
+    },
+    {
+        "code": "STY-2021-40394",
+        "order_status": "Shipped",
+        "customer_name": "Olivia Garc\u00eda",
+        "country": "GB",
+        "created_at": "2020-04-05T01:25:07",
+        "total": "€432.75"
+    },
+    {
+        "code": "STY-2021-98737",
+        "order_status": "Shipped",
+        "customer_name": "Noah Latini",
+        "country": "BE",
+        "created_at": "2020-04-01T20:31:22",
+        "total": "€342.07"
+    },
+    {
+        "code": "STY-2021-14610",
+        "order_status": "Shipped",
+        "customer_name": "Evelyn Knispel",
+        "country": "IT",
+        "created_at": "2020-04-01T09:14:28",
+        "total": "€585.29"
+    },
+    {
+        "code": "STY-2021-87275",
+        "order_status": "Partially canceled",
+        "customer_name": "Oliver Bianchi",
+        "country": "SP",
+        "created_at": "2020-03-31T10:56:08",
+        "total": "€446.74"
+    },
+    {
+        "code": "STY-2021-85869",
+        "order_status": "Received",
+        "customer_name": "Liam Maier",
+        "country": "SP",
+        "created_at": "2020-03-30T20:12:01",
+        "total": "€462.64"
+    },
+    {
+        "code": "STY-2021-09694",
+        "order_status": "Processing",
+        "customer_name": "Emma Smith",
+        "country": "FR",
+        "created_at": "2020-03-30T09:16:30",
+        "total": "€11.36"
+    },
+    {
+        "code": "STY-2021-84745",
+        "order_status": "Received",
+        "customer_name": "Harper Latini",
+        "country": "DE",
+        "created_at": "2020-03-29T04:20:42",
+        "total": "€165.77"
+    },
+    {
+        "code": "STY-2021-81301",
+        "order_status": "Processing",
+        "customer_name": "Lucas St-Pierre",
+        "country": "GB",
+        "created_at": "2020-03-27T12:35:05",
+        "total": "€560.79"
+    },
+    {
+        "code": "STY-2021-38405",
+        "order_status": "Processing",
+        "customer_name": "Lily Knispel",
+        "country": "FR",
+        "created_at": "2020-03-27T06:24:42",
+        "total": "€46.14"
+    },
+    {
+        "code": "STY-2021-24435",
+        "order_status": "Canceled",
+        "customer_name": "Liam Christensen",
+        "country": "DE",
+        "created_at": "2020-03-25T23:16:10",
+        "total": "€295.90"
+    },
+    {
+        "code": "STY-2021-53577",
+        "order_status": "Canceled",
+        "customer_name": "Ella Knispel",
+        "country": "FR",
+        "created_at": "2020-03-25T05:05:47",
+        "total": "€284.94"
+    },
+    {
+        "code": "STY-2021-73713",
+        "order_status": "Partially canceled",
+        "customer_name": "Noah Messerschmidt",
+        "country": "DE",
+        "created_at": "2020-03-25T03:40:20",
+        "total": "€516.96"
+    },
+    {
+        "code": "STY-2021-25672",
+        "order_status": "Partially shipped",
+        "customer_name": "Harper Christensen",
+        "country": "DE",
+        "created_at": "2020-03-25T02:29:54",
+        "total": "€47.14"
+    },
+    {
+        "code": "STY-2021-19555",
+        "order_status": "Partially canceled",
+        "customer_name": "Oliver Nilsson",
+        "country": "IT",
+        "created_at": "2020-03-24T12:56:24",
+        "total": "€85.84"
+    },
+    {
+        "code": "STY-2021-81169",
+        "order_status": "Partially shipped",
+        "customer_name": "Mia Messerschmidt",
+        "country": "CH",
+        "created_at": "2020-03-24T12:50:05",
+        "total": "€383.50"
+    },
+    {
+        "code": "STY-2021-40284",
+        "order_status": "Shipped",
+        "customer_name": "Noah Christensen",
+        "country": "CH",
+        "created_at": "2020-03-24T05:13:07",
+        "total": "€501.80"
+    },
+    {
+        "code": "STY-2021-44814",
+        "order_status": "Processing",
+        "customer_name": "Liam Garc\u00eda",
+        "country": "IT",
+        "created_at": "2020-03-20T22:45:12",
+        "total": "€235.23"
+    },
+    {
+        "code": "STY-2021-16569",
+        "order_status": "Received",
+        "customer_name": "Evelyn Hansen",
+        "country": "GB",
+        "created_at": "2020-03-20T13:13:52",
+        "total": "€347.29"
+    },
+    {
+        "code": "STY-2021-65881",
+        "order_status": "Partially shipped",
+        "customer_name": "Henry St-Pierre",
+        "country": "FR",
+        "created_at": "2020-03-16T17:07:44",
+        "total": "€285.90"
+    },
+    {
+        "code": "STY-2021-32709",
+        "order_status": "Partially shipped",
+        "customer_name": "Scarlett Garc\u00eda",
+        "country": "PT",
+        "created_at": "2020-03-16T13:59:42",
+        "total": "€172.46"
+    },
+    {
+        "code": "STY-2021-51902",
+        "order_status": "Processing",
+        "customer_name": "Sophia Garc\u00eda",
+        "country": "DE",
+        "created_at": "2020-03-16T00:27:41",
+        "total": "€200.12"
+    },
+    {
+        "code": "STY-2021-64720",
+        "order_status": "Partially shipped",
+        "customer_name": "Ella Johnson",
+        "country": "DE",
+        "created_at": "2020-03-10T11:16:52",
+        "total": "€410.00"
+    },
+    {
+        "code": "STY-2021-64694",
+        "order_status": "Partially shipped",
+        "customer_name": "Lily St-Pierre",
+        "country": "IT",
+        "created_at": "2020-03-07T23:55:03",
+        "total": "€440.54"
+    },
+    {
+        "code": "STY-2021-07252",
+        "order_status": "Partially shipped",
+        "customer_name": "Isabella Garc\u00eda",
+        "country": "CH",
+        "created_at": "2020-03-06T23:35:30",
+        "total": "€393.67"
+    },
+    {
+        "code": "STY-2021-92360",
+        "order_status": "Received",
+        "customer_name": "Mia G\u00f3mez",
+        "country": "DE",
+        "created_at": "2020-03-06T15:57:25",
+        "total": "€374.41"
+    },
+    {
+        "code": "STY-2021-56512",
+        "order_status": "Partially canceled",
+        "customer_name": "Ella De Vries",
+        "country": "DE",
+        "created_at": "2020-03-06T10:15:01",
+        "total": "€268.52"
+    },
+    {
+        "code": "STY-2021-63737",
+        "order_status": "Partially canceled",
+        "customer_name": "Liam Esposito",
+        "country": "DE",
+        "created_at": "2020-03-06T07:24:09",
+        "total": "€112.66"
+    },
+    {
+        "code": "STY-2021-49171",
+        "order_status": "Partially shipped",
+        "customer_name": "Isabella Romano",
+        "country": "DE",
+        "created_at": "2020-03-03T21:46:53",
+        "total": "€369.97"
+    },
+    {
+        "code": "STY-2021-68722",
+        "order_status": "Partially shipped",
+        "customer_name": "Emma Rodriguez",
+        "country": "PT",
+        "created_at": "2020-03-02T23:35:01",
+        "total": "€501.23"
+    },
+    {
+        "code": "STY-2021-37240",
+        "order_status": "Partially shipped",
+        "customer_name": "Mia G\u00f3mez",
+        "country": "GB",
+        "created_at": "2020-03-01T05:39:54",
+        "total": "€40.20"
+    },
+    {
+        "code": "STY-2021-71443",
+        "order_status": "Received",
+        "customer_name": "Ethan Maier",
+        "country": "IT",
+        "created_at": "2020-02-29T08:33:01",
+        "total": "€186.26"
+    },
+    {
+        "code": "STY-2021-52263",
+        "order_status": "Processing",
+        "customer_name": "Ethan Johnson",
+        "country": "NL",
+        "created_at": "2020-02-29T02:00:16",
+        "total": "€297.07"
+    },
+    {
+        "code": "STY-2021-30585",
+        "order_status": "Received",
+        "customer_name": "Ella Knispel",
+        "country": "GB",
+        "created_at": "2020-02-28T23:09:57",
+        "total": "€585.50"
+    },
+    {
+        "code": "STY-2021-26760",
+        "order_status": "Partially shipped",
+        "customer_name": "Olivia Maier",
+        "country": "SP",
+        "created_at": "2020-02-28T08:32:54",
+        "total": "€390.72"
+    },
+    {
+        "code": "STY-2021-64423",
+        "order_status": "Received",
+        "customer_name": "Sophia Esposito",
+        "country": "IT",
+        "created_at": "2020-02-28T05:54:27",
+        "total": "€171.65"
+    },
+    {
+        "code": "STY-2021-57205",
+        "order_status": "Partially shipped",
+        "customer_name": "Mateo Maier",
+        "country": "FR",
+        "created_at": "2020-02-27T13:25:52",
+        "total": "€344.79"
+    },
+    {
+        "code": "STY-2021-02419",
+        "order_status": "Partially shipped",
+        "customer_name": "Henry Jensen",
+        "country": "FR",
+        "created_at": "2020-02-25T18:13:26",
+        "total": "€513.64"
+    },
+    {
+        "code": "STY-2021-52000",
+        "order_status": "Partially canceled",
+        "customer_name": "Amelia Messerschmidt",
+        "country": "NL",
+        "created_at": "2020-02-25T16:30:14",
+        "total": "€52.43"
+    },
+    {
+        "code": "STY-2021-39689",
+        "order_status": "Received",
+        "customer_name": "Jack Esposito",
+        "country": "SP",
+        "created_at": "2020-02-25T07:35:26",
+        "total": "€254.77"
+    },
+    {
+        "code": "STY-2021-95085",
+        "order_status": "Partially shipped",
+        "customer_name": "Mia Messerschmidt",
+        "country": "DE",
+        "created_at": "2020-02-24T15:20:39",
+        "total": "€231.30"
+    },
+    {
+        "code": "STY-2021-19353",
+        "order_status": "Received",
+        "customer_name": "Isabella Smith",
+        "country": "CH",
+        "created_at": "2020-02-23T09:02:07",
+        "total": "€135.99"
+    },
+    {
+        "code": "STY-2021-73377",
+        "order_status": "Processing",
+        "customer_name": "Ella Bianchi",
+        "country": "DE",
+        "created_at": "2020-02-22T17:08:01",
+        "total": "€246.08"
+    },
+    {
+        "code": "STY-2021-52876",
+        "order_status": "Partially shipped",
+        "customer_name": "Mateo Van Dijk",
+        "country": "DE",
+        "created_at": "2020-02-20T20:23:54",
+        "total": "€82.53"
+    },
+    {
+        "code": "STY-2021-67706",
+        "order_status": "Shipped",
+        "customer_name": "Isabella Bianchi",
+        "country": "DE",
+        "created_at": "2020-02-20T08:34:40",
+        "total": "€20.38"
+    },
+    {
+        "code": "STY-2021-32402",
+        "order_status": "Partially canceled",
+        "customer_name": "Daniel Messerschmidt",
+        "country": "DE",
+        "created_at": "2020-02-14T09:29:25",
+        "total": "€361.80"
+    },
+    {
+        "code": "STY-2021-01087",
+        "order_status": "Canceled",
+        "customer_name": "Isabella Rodriguez",
+        "country": "IT",
+        "created_at": "2020-02-13T22:01:19",
+        "total": "€97.33"
+    },
+    {
+        "code": "STY-2021-76069",
+        "order_status": "Partially canceled",
+        "customer_name": "Lucas G\u00f3mez",
+        "country": "NL",
+        "created_at": "2020-02-11T11:14:56",
+        "total": "€220.46"
+    },
+    {
+        "code": "STY-2021-96618",
+        "order_status": "Processing",
+        "customer_name": "Mia Jensen",
+        "country": "CH",
+        "created_at": "2020-02-11T09:32:35",
+        "total": "€86.96"
+    },
+    {
+        "code": "STY-2021-40530",
+        "order_status": "Partially shipped",
+        "customer_name": "Mia Rodriguez",
+        "country": "DE",
+        "created_at": "2020-02-10T17:19:03",
+        "total": "€487.83"
+    },
+    {
+        "code": "STY-2021-53779",
+        "order_status": "Shipped",
+        "customer_name": "Oliver Messerschmidt",
+        "country": "IT",
+        "created_at": "2020-02-10T04:48:08",
+        "total": "€116.08"
+    },
+    {
+        "code": "STY-2021-12556",
+        "order_status": "Partially shipped",
+        "customer_name": "Ethan Knispel",
+        "country": "NL",
+        "created_at": "2020-02-09T06:23:56",
+        "total": "€486.15"
+    },
+    {
+        "code": "STY-2021-26071",
+        "order_status": "Partially shipped",
+        "customer_name": "Daniel M\u00fcller",
+        "country": "IT",
+        "created_at": "2020-02-08T20:30:58",
+        "total": "€495.21"
+    },
+    {
+        "code": "STY-2021-84317",
+        "order_status": "Partially shipped",
+        "customer_name": "Evelyn Rodriguez",
+        "country": "DE",
+        "created_at": "2020-02-08T17:03:07",
+        "total": "€220.15"
+    },
+    {
+        "code": "STY-2021-98093",
+        "order_status": "Received",
+        "customer_name": "Olivia Messerschmidt",
+        "country": "CH",
+        "created_at": "2020-02-07T21:00:07",
+        "total": "€43.90"
+    },
+    {
+        "code": "STY-2021-61883",
+        "order_status": "Partially canceled",
+        "customer_name": "Harper De Vries",
+        "country": "DE",
+        "created_at": "2020-02-06T10:03:15",
+        "total": "€116.18"
+    },
+    {
+        "code": "STY-2021-40997",
+        "order_status": "Canceled",
+        "customer_name": "Jack M\u00fcller",
+        "country": "CH",
+        "created_at": "2020-02-06T08:48:58",
+        "total": "€482.97"
+    },
+    {
+        "code": "STY-2021-67716",
+        "order_status": "Processing",
+        "customer_name": "Amelia Maier",
+        "country": "NL",
+        "created_at": "2020-02-06T08:21:40",
+        "total": "€447.93"
+    },
+    {
+        "code": "STY-2021-16094",
+        "order_status": "Partially shipped",
+        "customer_name": "Charlotte Jensen",
+        "country": "DE",
+        "created_at": "2020-02-05T15:18:42",
+        "total": "€440.92"
+    },
+    {
+        "code": "STY-2021-52529",
+        "order_status": "Canceled",
+        "customer_name": "Isabella Latini",
+        "country": "DE",
+        "created_at": "2020-02-04T02:21:54",
+        "total": "€403.28"
+    },
+    {
+        "code": "STY-2021-26983",
+        "order_status": "Partially canceled",
+        "customer_name": "Mia Hansen",
+        "country": "DE",
+        "created_at": "2020-02-01T01:54:17",
+        "total": "€105.20"
+    },
+    {
+        "code": "STY-2021-41343",
+        "order_status": "Received",
+        "customer_name": "Amelia St-Pierre",
+        "country": "IT",
+        "created_at": "2020-01-29T20:42:52",
+        "total": "€593.72"
+    },
+    {
+        "code": "STY-2021-72645",
+        "order_status": "Shipped",
+        "customer_name": "Noah Esposito",
+        "country": "FR",
+        "created_at": "2020-01-27T10:51:21",
+        "total": "€347.01"
+    },
+    {
+        "code": "STY-2021-65935",
+        "order_status": "Canceled",
+        "customer_name": "Evelyn Knispel",
+        "country": "DE",
+        "created_at": "2020-01-26T21:02:06",
+        "total": "€96.31"
+    },
+    {
+        "code": "STY-2021-73672",
+        "order_status": "Received",
+        "customer_name": "Jack Jensen",
+        "country": "DE",
+        "created_at": "2020-01-26T19:08:26",
+        "total": "€101.69"
+    },
+    {
+        "code": "STY-2021-49113",
+        "order_status": "Canceled",
+        "customer_name": "Ethan Van Dijk",
+        "country": "CH",
+        "created_at": "2020-01-26T19:07:41",
+        "total": "€107.66"
+    },
+    {
+        "code": "STY-2021-45382",
+        "order_status": "Shipped",
+        "customer_name": "Liam Rodriguez",
+        "country": "DE",
+        "created_at": "2020-01-26T16:43:59",
+        "total": "€16.23"
+    },
+    {
+        "code": "STY-2021-14144",
+        "order_status": "Shipped",
+        "customer_name": "Liam Ricci",
+        "country": "BE",
+        "created_at": "2020-01-26T16:24:59",
+        "total": "€329.81"
+    },
+    {
+        "code": "STY-2021-07905",
+        "order_status": "Partially canceled",
+        "customer_name": "Mateo Hansen",
+        "country": "DE",
+        "created_at": "2020-01-26T06:59:54",
+        "total": "€35.28"
+    },
+    {
+        "code": "STY-2021-74380",
+        "order_status": "Partially canceled",
+        "customer_name": "Noah Maier",
+        "country": "PT",
+        "created_at": "2020-01-25T00:29:10",
+        "total": "€302.33"
+    },
+    {
+        "code": "STY-2021-22770",
+        "order_status": "Processing",
+        "customer_name": "Ethan Messerschmidt",
+        "country": "DE",
+        "created_at": "2020-01-24T16:38:42",
+        "total": "€596.10"
+    },
+    {
+        "code": "STY-2021-69383",
+        "order_status": "Canceled",
+        "customer_name": "Oliver Van Dijk",
+        "country": "SP",
+        "created_at": "2020-01-24T04:02:01",
+        "total": "€288.16"
+    },
+    {
+        "code": "STY-2021-44029",
+        "order_status": "Partially shipped",
+        "customer_name": "Evelyn Ricci",
+        "country": "DK",
+        "created_at": "2020-01-24T00:54:51",
+        "total": "€231.19"
+    },
+    {
+        "code": "STY-2021-72898",
+        "order_status": "Received",
+        "customer_name": "Sophia Van Dijk",
+        "country": "DE",
+        "created_at": "2020-01-22T20:24:49",
+        "total": "€407.83"
+    },
+    {
+        "code": "STY-2021-80525",
+        "order_status": "Partially canceled",
+        "customer_name": "Noah Jensen",
+        "country": "DE",
+        "created_at": "2020-01-22T00:40:34",
+        "total": "€208.73"
+    },
+    {
+        "code": "STY-2021-28877",
+        "order_status": "Processing",
+        "customer_name": "Sophia St-Pierre",
+        "country": "DE",
+        "created_at": "2020-01-19T14:08:47",
+        "total": "€317.05"
+    },
+    {
+        "code": "STY-2021-30522",
+        "order_status": "Partially shipped",
+        "customer_name": "Isabella Messerschmidt",
+        "country": "DE",
+        "created_at": "2020-01-18T21:37:32",
+        "total": "€163.36"
+    },
+    {
+        "code": "STY-2021-68925",
+        "order_status": "Canceled",
+        "customer_name": "Evelyn De Vries",
+        "country": "CH",
+        "created_at": "2020-01-17T12:18:44",
+        "total": "€347.05"
+    },
+    {
+        "code": "STY-2021-77757",
+        "order_status": "Processing",
+        "customer_name": "Oliver G\u00f3mez",
+        "country": "DK",
+        "created_at": "2020-01-15T16:11:46",
+        "total": "€429.60"
+    },
+    {
+        "code": "STY-2021-04976",
+        "order_status": "Processing",
+        "customer_name": "Scarlett Smith",
+        "country": "BE",
+        "created_at": "2020-01-13T10:41:20",
+        "total": "€545.66"
+    },
+    {
+        "code": "STY-2021-22891",
+        "order_status": "Shipped",
+        "customer_name": "Evelyn G\u00f3mez",
+        "country": "DK",
+        "created_at": "2020-01-13T04:59:06",
+        "total": "€480.39"
+    },
+    {
+        "code": "STY-2021-45881",
+        "order_status": "Shipped",
+        "customer_name": "Leo Ricci",
+        "country": "BE",
+        "created_at": "2020-01-12T12:21:56",
+        "total": "€508.54"
+    },
+    {
+        "code": "STY-2021-86929",
+        "order_status": "Partially shipped",
+        "customer_name": "Ethan Esposito",
+        "country": "BE",
+        "created_at": "2020-01-11T21:21:34",
+        "total": "€456.37"
+    },
+    {
+        "code": "STY-2021-29823",
+        "order_status": "Partially shipped",
+        "customer_name": "Harper Garc\u00eda",
+        "country": "IT",
+        "created_at": "2020-01-11T13:59:28",
+        "total": "€333.89"
+    },
+    {
+        "code": "STY-2021-42118",
+        "order_status": "Partially canceled",
+        "customer_name": "Noah Bianchi",
+        "country": "IT",
+        "created_at": "2020-01-10T05:19:42",
+        "total": "€184.73"
+    },
+    {
+        "code": "STY-2021-81562",
+        "order_status": "Shipped",
+        "customer_name": "Emma Messerschmidt",
+        "country": "DK",
+        "created_at": "2020-01-07T22:27:01",
+        "total": "€378.61"
+    },
+    {
+        "code": "STY-2021-28183",
+        "order_status": "Partially canceled",
+        "customer_name": "Jack Nilsson",
+        "country": "DE",
+        "created_at": "2020-01-06T00:42:25",
+        "total": "€360.49"
+    },
+    {
+        "code": "STY-2021-37445",
+        "order_status": "Partially canceled",
+        "customer_name": "Liam Johnson",
+        "country": "DE",
+        "created_at": "2020-01-03T19:30:21",
+        "total": "€237.47"
+    },
+    {
+        "code": "STY-2021-31786",
+        "order_status": "Partially shipped",
+        "customer_name": "Lucas Knispel",
+        "country": "DE",
+        "created_at": "2020-01-02T08:46:44",
+        "total": "€237.06"
+    }
+]
