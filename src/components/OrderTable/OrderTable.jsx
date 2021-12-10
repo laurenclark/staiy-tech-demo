@@ -1,24 +1,6 @@
 import "antd/dist/antd.css";
+import { useFetch } from "../hooks/useFetch";
 import { Table, Tag, Button } from "antd";
-
-const testData = [
-    {
-        code: "STY-2021-96016",
-        order_status: "Processing",
-        customer_name: "Amelia De Vries",
-        country: "DE",
-        created_at: "2021-01-01T00:32:07",
-        total: "€372.17"
-    },
-    {
-        code: "STY-2021-98094",
-        order_status: "Partially shipped",
-        customer_name: "Jack M\u00fcller",
-        country: "IT",
-        created_at: "2020-12-31T07:56:10",
-        total: "€451.97"
-    }
-];
 
 const columns = [
     {
@@ -58,12 +40,22 @@ const columns = [
         width: 150
     },
     {
+        key: "1",
         width: 50,
         render: () => <Button type="primary">View</Button>
     }
 ];
 
 function OrderTable() {
+    const { isLoading, response, error } = useFetch("codingChallenge.json");
+
+    if (error) {
+        return "Sorry something went wrong - please refresh the page and try again.";
+    }
+
+    if (isLoading) {
+        return "Loading...";
+    }
     return (
         <Table
             style={{
@@ -71,7 +63,7 @@ function OrderTable() {
                 maxWidth: "1000px"
             }}
             columns={columns}
-            dataSource={testData}
+            dataSource={response}
         />
     );
 }

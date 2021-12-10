@@ -5,9 +5,10 @@ function App() {
     return (
         <Layout
             style={{
-                height: "100vh",
                 display: "grid",
-                placeItems: "center"
+                placeItems: "center",
+                minHeight: "100vh",
+                minWidth: "100vw"
             }}>
             <OrderTable />
         </Layout>
