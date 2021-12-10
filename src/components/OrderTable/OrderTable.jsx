@@ -22,7 +22,7 @@ const testData = [
 
 const columns = [
     {
-        title: "Code",
+        title: "Order ID",
         width: 200,
         dataIndex: "code",
         key: "code",
