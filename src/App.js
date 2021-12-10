@@ -1,10 +1,16 @@
 import OrderTable from "./components/OrderTable/OrderTable";
+import { Layout } from "antd";
 
 function App() {
     return (
-        <div className="App">
+        <Layout
+            style={{
+                height: "100vh",
+                display: "grid",
+                placeItems: "center"
+            }}>
             <OrderTable />
-        </div>
+        </Layout>
     );
 }
 

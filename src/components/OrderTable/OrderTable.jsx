@@ -1,5 +1,5 @@
 import "antd/dist/antd.css";
-import { Table, Layout, Tag } from "antd";
+import { Table, Tag, Button } from "antd";
 
 const testData = [
     {
@@ -42,48 +42,37 @@ const columns = [
     {
         title: "Country",
         dataIndex: "country",
-        key: "1",
+        key: "country",
         width: 10
     },
     {
         title: "Created At",
         dataIndex: "created_at",
-        key: "1",
+        key: "created_at",
         width: 200
     },
     {
         title: "Total",
         dataIndex: "total",
-        key: "1",
+        key: "total",
         width: 150
     },
     {
-        key: "1",
-        fixed: "right",
         width: 50,
-        render: () => <a>View</a>
+        render: () => <Button type="primary">View</Button>
     }
 ];
 
 function OrderTable() {
     return (
-        <div className="App">
-            <Layout
-                style={{
-                    height: "100vh",
-                    display: "grid",
-                    placeItems: "center"
-                }}>
-                <Table
-                    style={{
-                        margin: "0 auto",
-                        maxWidth: "1000px"
-                    }}
-                    columns={columns}
-                    dataSource={testData}
-                />
-            </Layout>
-        </div>
+        <Table
+            style={{
+                margin: "0 auto",
+                maxWidth: "1000px"
+            }}
+            columns={columns}
+            dataSource={testData}
+        />
     );
 }
 
