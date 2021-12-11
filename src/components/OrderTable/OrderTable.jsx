@@ -1,4 +1,5 @@
 import "antd/dist/antd.css";
+import { formatDate } from "../utility/formatDate";
 import { useFetch } from "../hooks/useFetch";
 import { Table, Tag, Button } from "antd";
 
@@ -31,7 +32,15 @@ const columns = [
         title: "Created At",
         dataIndex: "created_at",
         key: "created_at",
-        width: 200
+        width: 300,
+        render: (created_at) => {
+            const { fullDate, time } = formatDate(created_at);
+            return (
+                <>
+                    {fullDate} at {time}
+                </>
+            );
+        }
     },
     {
         title: "Total",
