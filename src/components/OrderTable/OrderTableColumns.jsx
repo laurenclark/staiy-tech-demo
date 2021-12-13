@@ -97,7 +97,12 @@ export const columns = [
     {
         title: "Total",
         dataIndex: "total",
-        width: 100
+        width: 100,
+        sorter: (a, b) => {
+            a = Number(a.total.slice(1));
+            b = Number(b.total.slice(1));
+            return a - b;
+        }
     },
     {
         title: "Action",
