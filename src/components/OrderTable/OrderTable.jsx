@@ -18,8 +18,9 @@ function OrderTable() {
         <Table
             style={{
                 margin: "0 auto",
-                maxWidth: "1000px"
+                maxWidth: "1100px"
             }}
+            sorter={true}
             loading={isLoading}
             columns={columns}
             dataSource={customerData}

@@ -14,6 +14,6 @@ export function statusColourMap(status) {
         case "canceled":
             return "volcano";
         default:
-            return false;
+            return null;
     }
 }
