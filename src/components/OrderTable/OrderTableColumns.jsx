@@ -107,6 +107,6 @@ export const columns = [
     {
         title: "Action",
         width: 50,
-        render: () => <Button type="primary">View</Button>
+        render: () => <Button>View</Button>
     }
 ];
